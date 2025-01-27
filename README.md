@@ -1,14 +1,16 @@
-- 👋 Hi, I’m Theavuth Nhel, a Software Engineer (Back-End) at Nham24 (Go24).
-- 🌱 I’m currently learning DevOps, performance improvement.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&vCenter=true&width=435&lines=Welcome+to+Theavuth+Github)](https://git.io/typing-svg)
+
+<!-- - 👋 Hi, I’m Theavuth Nhel, a Software Engineer (Back-End) at Nham24 (Go24). -->
+<!-- - 🌱 I’m currently learning DevOps, performance improvement. -->
 <!-- - 💞️ I’m looking to collaborate as a Senior Software Engineer (Back-End).-->
-- 📫 How to reach me: theavuth.nhel.kh@gmail.com or https://www.linkedin.com/in/mrtheavuth/
+<!-- - 📫 How to reach me: theavuth.nhel.kh@gmail.com or https://www.linkedin.com/in/mrtheavuth/ -->
 
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theavuthnhel&count_private=true&show_icons=true)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theavuthnhel&layout=compact)
 
-<!--
+
 **theavuth9/theavuth9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
